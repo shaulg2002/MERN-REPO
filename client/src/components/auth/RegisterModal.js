@@ -30,7 +30,6 @@ class RegisterModal extends Component {
         error: PropTypes.object.isRequired,
         register: PropTypes.func.isRequired,
         clearErrors: PropTypes.func.isRequired
-
     }
 
     componentDidUpdate(prevProps){

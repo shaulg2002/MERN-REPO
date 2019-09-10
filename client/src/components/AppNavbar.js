@@ -52,7 +52,8 @@ class AppNavbar extends Component{
             <Fragment>
                 <NavItem>
                    <RegisterModal />
-                </NavItem>                            <NavItem>
+                </NavItem>           
+                <NavItem>
                   <LoginModal />
                 </NavItem>
             </Fragment>
